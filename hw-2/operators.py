@@ -7,7 +7,7 @@ print(x-y)
 print(x*y)
 print(x/y)
 print(x%y)
-print(x**Y) #x^y exponential
+print(x**y) #x^y exponential
 
 x = 9.191823
 print(x//y) #floor division; most times y goes into x fully
