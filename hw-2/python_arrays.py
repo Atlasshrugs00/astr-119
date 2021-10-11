@@ -1,7 +1,12 @@
 x = [0.0, 3.0, 5.0, 2.5, 3.7]
+print(type(x))
 
 #remove the third element
 x.pop(2)
+print(x)
+
+#remove element equal to 2.5
+x.remove(2.5)
 print(x)
 
 #add element to the end
